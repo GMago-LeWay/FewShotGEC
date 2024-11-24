@@ -122,4 +122,4 @@ scripts/temp
 experiments/*temp
 
 # personalized config file
-configs/directory.json
+# configs/directory.json

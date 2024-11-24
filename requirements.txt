@@ -1,0 +1,25 @@
+# conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.7 -c pytorch -c nvidia
+# conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 pytorch-cuda=11.8 -c pytorch -c nvidia
+# conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
+deepspeed
+transformers
+peft
+trl
+evaluate
+wandb
+sentencepiece
+tqdm
+pandas
+spacy
+# ERRANT
+opencc
+ltp
+pypinyin
+Levenshtein
+sentence-transformers
+llama_index
+llama-index-embeddings-huggingface
+llama-index-retrievers-bm25
+nltk
+rank-bm25
+seqeval
